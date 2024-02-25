@@ -1,0 +1,2 @@
+# mexc
+trying testnet 
